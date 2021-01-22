@@ -1,8 +1,8 @@
 # Reddibot Documentation
 
-> The documentation for my bot: Reddibot 
+>> The documentation for my bot: Reddibot 
 
-> Add it here: [Reddibot](https://top.gg/bot/770376260626415637)
+>> Add it here: [Reddibot](https://top.gg/bot/770376260626415637)
 
 ![Reddit Logo](https://cdn.discordapp.com/attachments/769370075056308244/802006210559606784/unknown.png)
 
