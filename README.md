@@ -32,7 +32,8 @@ Command Name | Command Description
 ------------ | -------------
 r/help | Shows you all the public commands and an excerpt of what they do
 r/invite | This command gives you the invite link for the bot in case any one else ever wants to invite it
-r/docs | Come to this page
+r/docs | Brings you to this page
+:trident: NEW! r/sub | This lets you see any subreddit you want, example: r/sub 11foot8, no need for the comma, **11foot8** is the subreddit name
 r/meme | The most basic command, but don't worry we have more specific ones. This command posts a meme from [r/meirl](https://reddit.com/r/meirl), [r/memes](https://reddit.com/r/memes), and [r/dankmemes](https://reddit.com/r/dankmemes)
 r/wholesome | Displays a wholesome meme from [r/wholesomememes](https://reddit.com/r/whomesomememes)
 r/interesting | Displays something interesting from [r/damnthatsinteresting](https://reddit.com/r/damnthatsinteresting)
